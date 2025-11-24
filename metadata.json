@@ -1,0 +1,5 @@
+{
+  "name": "The Insight Times",
+  "description": "A New York Times style investigative news generator powered by Gemini with Google Search and Nano Banana Pro for imagery.",
+  "requestFramePermissions": []
+}
